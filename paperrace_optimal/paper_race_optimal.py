@@ -1,6 +1,6 @@
 # Vass Peter @ BME FRT 2017
 
-# this  script return the optimal solution to the paperrace game. 
+# this  script returns the optimal solution to the paperrace game. 
 # Worst case time complexity of the algo is O(n^3)
 
 # dependencies are: numpy, scipy, matplotlib 
